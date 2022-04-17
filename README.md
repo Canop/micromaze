@@ -12,6 +12,9 @@ The remaining count is displayed at start and when fetching one.
 
 You move by tilting the microbit: your avatar moves towards the bottom.
 
+Right button is ON/OFF.
+Left button takes you to the initial position.
+
 To make the game easier (and have an introduction to the code, kids can look at [the map](micromaze.py) while playing.
 
 ![play](doc/play.jpg)
